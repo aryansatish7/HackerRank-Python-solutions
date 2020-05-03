@@ -1,2 +1,2 @@
 # HackerRank-Python-solutions
-Hacker rank programming solutions in python 
+Hacker rank problems solutions in python. uploaded topic wise and refer to the sub-branches as folders
